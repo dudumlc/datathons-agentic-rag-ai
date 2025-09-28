@@ -1,7 +1,8 @@
 groq
 ipykernel
-streamlit
 pandas
 numpy
-yfinance
+boto3
+matplotlib
+seaborn
 streamlit
