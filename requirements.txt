@@ -1,0 +1,7 @@
+groq
+ipykernel
+streamlit
+pandas
+numpy
+yfinance
+streamlit
