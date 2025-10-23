@@ -60,10 +60,3 @@ A estrutura de pastas deste repositório foi organizada para manter o projeto li
     python main.py
     ```
 
-
-## Contribuidores
-
-- Luís Eduardo Moreira Las Casas ([Linkedin](https://www.linkedin.com/in/luis-las-casas/))
-- Arthur de Albuquerque Santana ([Linkedin](https://www.linkedin.com/in/arthur-albuquerque-santana/))
-- Nathália de Castro Nascimento ([Linkedin](https://www.linkedin.com/in/nath%C3%A1lia-nascimento-3617b1293/))
-- Felipe de Melo Silva ([Linkedin](https://www.linkedin.com/in/felipe-melo-705051230))
