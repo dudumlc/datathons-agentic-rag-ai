@@ -38,6 +38,12 @@ A estrutura de pastas deste repositório foi organizada para manter o projeto li
 - `src/`: Código fonte, scripts e módulos reutilizáveis.
 - `results/`: Resultados finais, como submissões, visualizações e modelos treinados.
 
+## Próximos Passos Mapeados
+
+- Trazer mais tools para o agente
+- Conseguir conectar com qualquer base de dados do Portal da ONS dinamicamente
+- Utilizar os metadados disponibilizados para o próprio agente conseguir decidir qual coluna usar dependenda da solicitação do usuário
+
 ## Como Começar
 
 1.  **Clone o repositório:**
