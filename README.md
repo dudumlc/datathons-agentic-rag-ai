@@ -1,4 +1,4 @@
-# Datathon ONS 2025 - Grupo 13
+# Datathon ONS 2025 - Grupo 13 [🏆 TOP 10]
 
 Bem-vindo ao repositório do Grupo 13 para o Datathon ONS 2025!
 
