@@ -7,12 +7,7 @@ import datetime
 import boto3
 from botocore import UNSIGNED
 from botocore.client import Config
-from groq import Groq # Certifique-se de que 'groq' está instalado: pip install groq
-
-
-# ==============================================================================
-# 2. DESENVOLVIMENTO DO AGENTE EM FORMATO REACT (Com ajustes para Streamlit)
-# ==============================================================================
+from groq import Groq 
 
 class ReactAgent:
     def __init__(self, system: str = "", api_key: str = '', tools: list = []) -> None:
@@ -57,3 +52,4 @@ class ReactAgent:
         except Exception as e:
             # Captura erros da API (e.g., chave inválida, limite)
             return f"Answer: Erro na chamada da API Groq: {e}"
+
