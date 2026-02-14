@@ -7,12 +7,8 @@ import datetime
 import boto3
 from botocore import UNSIGNED
 from botocore.client import Config
-from groq import Groq # Certifique-se de que 'groq' está instalado: pip install groq
+from groq import Groq 
 
-
-# ==============================================================================
-# 1. FERRAMENTAS / AÇÕES CRIADAS PARA A IA (Sem alterações)
-# ==============================================================================
 
 def calculate(operation: str) -> float:
     return eval(operation)
@@ -143,4 +139,5 @@ def get_programacao_energia_periodo(data_inicio, data_fim):
     if dfs:
         return pd.concat(dfs, ignore_index=True)
     else:
+
         return pd.DataFrame() # Retorna DataFrame vazio se não encontrar
